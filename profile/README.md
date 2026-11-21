@@ -1,6 +1,4 @@
-# Sl0ptiminer
-
-> Optimized for your mining pleasure.
+<p align="center"><img src="banner.png" width="1280" alt="Sl0ptiminer. Optimized for your mining pleasure."></p>
 
 Sl0ptiminer is a cryptocurrency miner. It mines Hoohash for Hoosat (HTN), on x86-64 processors, 64-bit ARM processors and NVIDIA graphics cards. Systems: Linux, macOS and HiveOS. **No public build yet.**
 
