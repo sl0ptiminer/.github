@@ -12,5 +12,3 @@ The official site is https://sl0ptiminer.com: downloads, install guides, a wiki 
 - [Algorithms and coins](https://sl0ptiminer.com/algorithms/)
 - [Sl0ptiminer benchmarks](https://sl0ptiminer.com/benchmarks/)
 - [Security and verification](https://sl0ptiminer.com/wiki/verify/)
-
-Sl0ptiminer is closed source and paid for by a [developer fee](https://sl0ptiminer.com/wiki/fee/).
